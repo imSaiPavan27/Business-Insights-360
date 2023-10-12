@@ -3,14 +3,6 @@
 ## Project Overview
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics. As a result, the project entailed developing a Power BI dashboard for Atliq Hardware, which would provide automated data analysis for the finance, sales, marketing, and supply chain departments to improve decision-making.
 
-## Tech Stacks
-- SQL
-- PowerBi Desktop
-- Excel
-- DAX language
-- DAX studio (for optimizing the report)
-
-
 ## Company's Background
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
 - Retailers
@@ -91,6 +83,11 @@ In the Home view, all the view buttons will be available. Users will land on spe
 
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+
+
+## Project Outcome
+By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
+
 ## Important Techniques Learned
 - Getting started with Exploratory Data Analysis using SQL
 - Making connections between SQL and Power BI
@@ -117,5 +114,10 @@ In the Home view, all the view buttons will be available. Users will land on spe
 - COGS ( Cost of goods sold )
 - YTD ( Year to do )
 - YTG ( Year to go )
-## Project Outcome
-By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
+
+## Tech Stacks
+- SQL
+- PowerBi Desktop
+- Excel
+- DAX language
+- DAX studio (for optimizing the report)
