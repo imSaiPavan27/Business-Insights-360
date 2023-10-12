@@ -1,12 +1,9 @@
 # Business Insights 360
 
+![](images/Slide1.JPG)
 
 ## Project Overview
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics. As a result, the project entailed developing a Power BI dashboard for Atliq Hardware, which would provide automated data analysis for the finance, sales, marketing, and supply chain departments to improve decision-making.
-
-![](images/Slide2.JPG)
-
-
 
 ## Tech Stacks
 - SQL
@@ -15,35 +12,9 @@ AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first
 - DAX language
 - DAX studio (for optimizing the report)
 
-## Project Charter File
-- [Link to Project Charter File](#)
+## Project Charter 
+![](images/Slide2.JPG)
 
-## Important Techniques Learned
-- Getting started with Exploratory Data Analysis using SQL
-- Making connections between SQL and Power BI
-- Shaping data with Power Query
-- Building data models
-- Crafting Date Tables using M language
-- Crafting Measures with DAX
-- Understanding the nuances of Filter Context
-- Using Bookmarks for seamless switching between visuals
-- Navigating pages through buttons
-- Applying Conditional Formatting for more engaging insights
-- Making the most of KPI Indicators
-- Utilizing Generated Columns effectively
-- Improving performance through DAX Studio optimization
-
-## Business-Related Terms
-- Net sales
-- Net Profit
-- Net-invoice sales
-- Gross price
-- Gross margin
-- Pre-invoice deductions
-- Post-invoice deductions
-- COGS ( Cost of goods sold )
-- YTD ( Year to do )
-- YTG ( Year to go )
 
 ## Company's Background
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
@@ -117,5 +88,31 @@ In the Home view, all the view buttons will be available. Users will land on spe
 
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+## Important Techniques Learned
+- Getting started with Exploratory Data Analysis using SQL
+- Making connections between SQL and Power BI
+- Shaping data with Power Query
+- Building data models
+- Crafting Date Tables using M language
+- Crafting Measures with DAX
+- Understanding the nuances of Filter Context
+- Using Bookmarks for seamless switching between visuals
+- Navigating pages through buttons
+- Applying Conditional Formatting for more engaging insights
+- Making the most of KPI Indicators
+- Utilizing Generated Columns effectively
+- Improving performance through DAX Studio optimization
+
+## Business-Related Terms
+- Net sales
+- Net Profit
+- Net-invoice sales
+- Gross price
+- Gross margin
+- Pre-invoice deductions
+- Post-invoice deductions
+- COGS ( Cost of goods sold )
+- YTD ( Year to do )
+- YTG ( Year to go )
 ## Project Outcome
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
