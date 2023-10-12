@@ -22,7 +22,7 @@ Recently, the company faced an unforeseen loss due to the opening of a store in 
 ## Project Kickoff Session
 The project kickoff session is where you get clarity on the project's objectives and why it's being undertaken. It's the time to ask questions and set the direction for the project.
 
-__ Project Charter __
+### Project Charter 
 Using a project tool lie MURAL, which helps in creating a porject charter. It outlines kep project features such
 1. Project Goals
 2. Project Timeline
