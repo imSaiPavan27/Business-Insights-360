@@ -31,31 +31,33 @@ Understanding the available data is crucial for effective analysis. Before divin
 2. gdb056
 
 ### gdb041 data set
->#### Dimension Tables
->- **dim_customer**
->  - 75 distinct customers throughout the market
->  - 2 types of platforms: Brick & Mortar (Physical/offline store) and E-commerce (Online Store)
->  - Three channels: Retailer, Direct, Distributors
->
->- **dim_market**
->  - 27 distinct markets (e.g., India, USA, Spain)
->  - 7 sub-zones
->  - 4 regions: APAC, EU, nan, LATAM
->
->- **dim_product**
->  - Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage
->  - 14 different categories (e.g., Internal HDD, keyboard)
->  - Different variants available for the same product
->
->#### Fact Tables
->- **fact_forecast_monthly**
->  - Used to forecast the customer’s need in advance, leading to higher customer satisfaction and reduced storage costs.
->  - Renormalized by the data engineering team for analytical work.
->  - Dates of the month replaced by the start date of the month.
->  - Contains forecast quantities needed by the customer.
->
->- **fact_sales_monthly**
->  - Similar to the fact_forecast_monthly table, but with actual sold quantities.
+It contains the main fact and dimension tables 
+
+#### Dimension Tables
+- **dim_customer**
+  - 75 distinct customers throughout the market
+  - 2 types of platforms: Brick & Mortar (Physical/offline store) and E-commerce (Online Store)
+  - Three channels: Retailer, Direct, Distributors
+
+- **dim_market**
+  - 27 distinct markets (e.g., India, USA, Spain)
+  - 7 sub-zones
+  - 4 regions: APAC, EU, nan, LATAM
+
+- **dim_product**
+  - Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage
+  - 14 different categories (e.g., Internal HDD, keyboard)
+  - Different variants available for the same product
+
+#### Fact Tables
+- **fact_forecast_monthly**
+  - Used to forecast the customer’s need in advance, leading to higher customer satisfaction and reduced storage costs.
+  - Renormalized by the data engineering team for analytical work.
+  - Dates of the month replaced by the start date of the month.
+  - Contains forecast quantities needed by the customer.
+
+- **fact_sales_monthly**
+  - Similar to the fact_forecast_monthly table, but with actual sold quantities.
 
 ### gdb056 data set
   - **freight_cost**: Details of travel cost and other costs for each market with fiscal year
