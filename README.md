@@ -7,6 +7,9 @@ AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first
 
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+![](images/1.jpg)
+
+
 
 ## Tech Stacks
 - SQL
