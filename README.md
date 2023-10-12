@@ -1,5 +1,6 @@
+---
 # Business Insights 360
-
+---
 ## Project Overview
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics. As a result, the project entailed developing a Power BI dashboard for Atliq Hardware, which would provide automated data analysis for the finance, sales, marketing, and supply chain departments to improve decision-making.
 
@@ -33,7 +34,6 @@ Understanding the available data is crucial for effective analysis. Before divin
 ### gdb041 data set
 It contains the main fact and dimension tables 
 
----
 
 #### Dimension Tables
 - **dim_customer**
@@ -51,7 +51,7 @@ It contains the main fact and dimension tables
   - 14 different categories (e.g., Internal HDD, keyboard)
   - Different variants available for the same product
 
----
+
 
 #### Fact Tables
 - **fact_forecast_monthly**
