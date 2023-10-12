@@ -33,6 +33,8 @@ Understanding the available data is crucial for effective analysis. Before divin
 ### gdb041 data set
 It contains the main fact and dimension tables 
 
+---
+
 #### Dimension Tables
 - **dim_customer**
   - 75 distinct customers throughout the market
@@ -48,6 +50,8 @@ It contains the main fact and dimension tables
   - Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage
   - 14 different categories (e.g., Internal HDD, keyboard)
   - Different variants available for the same product
+
+---
 
 #### Fact Tables
 - **fact_forecast_monthly**
