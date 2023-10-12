@@ -36,20 +36,16 @@ AtliQ Hardware is experiencing rapid growth and has decided to implement data an
 - Collaboration, workspace, access permissions in PowerBi services
 
 ## Business-Related Terms
-- Gross price
-- Pre-invoice deductions
-- Post-Invoice deductions
-- Net Invoice sale
-- Gross Margin
-- Net sales
-- Net profit
-- COGC – cost of goods sold
-- YTD – Year to Date
-- YTG – Year to Go
-- Direct
-- Retailer
-- Distributors
-- Consumer
+➺ Net sales
+➺ Net Profit
+➺ Net-invoice sales
+➺ Gross price
+➺ Gross margin
+➺ Pre-invoice deductions
+➺ Post-invoice deductions
+➺ COGS ( Cost of goods sold )
+➺ YTD ( Year to do )
+➺ YTG ( Year to go )
 
 ## Company's Background
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
