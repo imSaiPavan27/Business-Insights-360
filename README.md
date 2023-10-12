@@ -1,7 +1,5 @@
 # Business Insights 360
 
-![](images/Slide1.JPG)
-
 ## Project Overview
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics. As a result, the project entailed developing a Power BI dashboard for Atliq Hardware, which would provide automated data analysis for the finance, sales, marketing, and supply chain departments to improve decision-making.
 
@@ -11,9 +9,6 @@ AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first
 - Excel
 - DAX language
 - DAX studio (for optimizing the report)
-
-## Project Charter 
-![](images/Slide2.JPG)
 
 
 ## Company's Background
@@ -26,6 +21,14 @@ Recently, the company faced an unforeseen loss due to the opening of a store in 
 
 ## Project Kickoff Session
 The project kickoff session is where you get clarity on the project's objectives and why it's being undertaken. It's the time to ask questions and set the direction for the project.
+
+__ Project Charter __
+Using a project tool lie MURAL, which helps in creating a porject charter. It outlines kep project features such
+1. Project Goals
+2. Project Timeline
+3. Project team members
+4. Project objectives
+5. Project risks
 
 ## Dataset Understanding
 Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data.
