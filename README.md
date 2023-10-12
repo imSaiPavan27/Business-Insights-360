@@ -28,19 +28,20 @@ Importing the AtliQ's data into the MySQL Workbench. The data includes both fact
 ## Using SQL to Explore Data
 Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data.
 
-### Dimension Tables
+### gdb041 data set
+>Dimension Tables
 - **dim_customer**
   - 27 distinct markets (e.g., India, USA, Spain)
   - 75 distinct customers throughout the market
   - 2 types of platforms: Brick & Mortar (Physical/offline store) and E-commerce (Online Store)
   - Three channels: Retailer, Direct, Distributors
 
-- **dim_market**
+>- **dim_market**
   - 27 distinct markets (e.g., India, USA, Spain)
   - 7 sub-zones
   - 4 regions: APAC, EU, nan, LATAM
 
-- **dim_product**
+>- **dim_product**
   - Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage
   - 14 different categories (e.g., Internal HDD, keyboard)
   - Different variants available for the same product
@@ -55,7 +56,7 @@ Understanding the available data is crucial for effective analysis. Before divin
 - **fact_sales_monthly**
   - Similar to the fact_forecast_monthly table, but with actual sold quantities.
 
-- **gdb056**
+### gdb056 data set
   - **freight_cost**: Details of travel cost and other costs for each market with fiscal year
   - **gross_price**: Details of gross prices with product code
   - **manufacturing_cost**: Details of manufacturing cost with product code and year
