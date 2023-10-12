@@ -16,36 +16,32 @@ AtliQ Hardware is experiencing rapid growth and has decided to implement data an
 ## Project Charter File
 - [Link to Project Charter File](#)
 
-## PowerBI Techniques Learned
-- What are all the questions that should be asked before starting the project?
-- Creating calculated columns
-- Creating measures using DAX language
-- Data modeling
-- Using Bookmarks to switch between two visuals
-- Page navigation with buttons
-- Using the divide function to prevent zero division errors
-- Creating date tables using M language
-- Dynamic titles based on applied filters
-- Using KPI indicators
-- Conditional formatting of values in visuals using icons or background color
-- Data validation techniques
-- PowerBi services
-- Publishing reports to PowerBi services
-- Setting up a personal gateway for auto data refresh
-- PowerBi App creation
-- Collaboration, workspace, access permissions in PowerBi services
+## Important Techniques Learned
+- Getting started with Exploratory Data Analysis using SQL
+- Making connections between SQL and Power BI
+- Shaping data with Power Query
+- Building data models
+- Crafting Date Tables using M language
+- Crafting Measures with DAX
+- Understanding the nuances of Filter Context
+- Using Bookmarks for seamless switching between visuals
+- Navigating pages through buttons
+- Applying Conditional Formatting for more engaging insights
+- Making the most of KPI Indicators
+- Utilizing Generated Columns effectively
+- Improving performance through DAX Studio optimization
 
 ## Business-Related Terms
-➺ Net sales
-➺ Net Profit
-➺ Net-invoice sales
-➺ Gross price
-➺ Gross margin
-➺ Pre-invoice deductions
-➺ Post-invoice deductions
-➺ COGS ( Cost of goods sold )
-➺ YTD ( Year to do )
-➺ YTG ( Year to go )
+- Net sales
+- Net Profit
+- Net-invoice sales
+- Gross price
+- Gross margin
+- Pre-invoice deductions
+- Post-invoice deductions
+- COGS ( Cost of goods sold )
+- YTD ( Year to do )
+- YTG ( Year to go )
 
 ## Company's Background
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
