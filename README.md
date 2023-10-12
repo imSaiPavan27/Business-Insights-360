@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-AtliQ Hardware is experiencing rapid growth and has decided to implement data analytics using PowerBi for the first time. The aim is to outperform competitors in the market and make data-driven decisions. This project is expected to provide insights into various aspects, including finance, sales, marketing, and the supply chain.
+AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics. As a result, the project entailed developing a Power BI dashboard for Atliq Hardware, which would provide automated data analysis for the finance, sales, marketing, and supply chain departments to improve decision-making.
 
 
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
