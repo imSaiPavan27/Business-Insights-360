@@ -22,45 +22,47 @@ Using a project tool lie **MURAL**, which helps in creating a porject charter. I
 4. Project objectives
 5. Project risks
 
-## Dataset Understanding
+## Importing Data into SQL
+Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
+
+## Using SQL to Explore Data
 Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data.
 
 ### Dimension Tables
-- dim_customer
+- **dim_customer**
   - 27 distinct markets (e.g., India, USA, Spain)
   - 75 distinct customers throughout the market
   - 2 types of platforms: Brick & Mortar (Physical/offline store) and E-commerce (Online Store)
   - Three channels: Retailer, Direct, Distributors
 
-- dim_market
+- **dim_market**
   - 27 distinct markets (e.g., India, USA, Spain)
   - 7 sub-zones
   - 4 regions: APAC, EU, nan, LATAM
 
-- dim_product
+- **dim_product**
   - Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage
   - 14 different categories (e.g., Internal HDD, keyboard)
   - Different variants available for the same product
 
 ### Fact Tables
-- fact_forecast_monthly
+- **fact_forecast_monthly**
   - Used to forecast the customer’s need in advance, leading to higher customer satisfaction and reduced storage costs.
   - Renormalized by the data engineering team for analytical work.
   - Dates of the month replaced by the start date of the month.
   - Contains forecast quantities needed by the customer.
 
-- fact_sales_monthly
+- **fact_sales_monthly**
   - Similar to the fact_forecast_monthly table, but with actual sold quantities.
 
-- gdb056
-  - freight_cost: Details of travel cost and other costs for each market with fiscal year
-  - gross_price: Details of gross prices with product code
-  - manufacturing_cost: Details of manufacturing cost with product code and year
-  - Pre_invoice_deductions: Details of pre-invoice deductions percentage for each customer with year
-  - Post_invoice_deductions: Details of post-invoice deductions and other deductions
+- **gdb056**
+  - **freight_cost**: Details of travel cost and other costs for each market with fiscal year
+  - **gross_price**: Details of gross prices with product code
+  - **manufacturing_cost**: Details of manufacturing cost with product code and year
+  - **Pre_invoice_deductions**: Details of pre-invoice deductions percentage for each customer with year
+  - **Post_invoice_deductions**: Details of post-invoice deductions and other deductions
 
-## Importing Data into PowerBi
-As the database is MySQL in this project, datasets are imported from the MySQL database to PowerBi by providing the Database access credentials.
+
 
 ## Data Model
 Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report. In this project, a Snowfall data modeling method is followed.
