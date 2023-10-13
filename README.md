@@ -24,10 +24,10 @@ Using a project tool lie **MURAL**, which helps in creating a porject charter. I
 5. Risks
 
 ## 3. Import & Explore Data
-### a. Importing Data into SQL
+### A. Importing Data into SQL
 Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
 
-### b. Using SQL to Explore Data
+### B. Using SQL to Explore Data
 Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data. There were 2 data sets 
 1. gdb041
 2. gdb056
@@ -67,7 +67,7 @@ It contains miscellaneous data which also plays a key role.
 
 **Note**: The Database which has both fact and dimension tables, consists of more than 1.4 million records of different products, customers, purchases, etc..
 
-### c. Import data to Power BI
+### C. Import data to Power BI
 After exploring the data, we now connect and load the AtliQ's data from MySQL database to the Power BI.
 
 ## 4. Data Modelling
@@ -100,7 +100,7 @@ By using this report, decisions can be made based on data, and it will help answ
 
 The learnings from this porject:
 
-## a. Important Techniques 
+## A. Important Techniques 
 - Getting started with Exploratory Data Analysis using SQL
 - Making connections between SQL and Power BI
 - Shaping data with Power Query
@@ -115,7 +115,7 @@ The learnings from this porject:
 - Utilizing Generated Columns effectively
 - Improving performance through DAX Studio optimization
 
-## b. Business-Related Terms
+## B. Business-Related Terms
 - Net sales
 - Net Profit
 - Net-invoice sales
@@ -127,7 +127,7 @@ The learnings from this porject:
 - YTD ( Year to do )
 - YTG ( Year to go )
 
-## c. Tech Skills
+## C. Tech Skills
 - MySQL
 - PowerBi Desktop
 - MS Excel
