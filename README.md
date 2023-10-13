@@ -73,7 +73,7 @@ It contains miscellaneous data which also plays a key role.
 ### c) Import data to Power BI
 After exploring the data, we now connect and load the AtliQ's data from MySQL database to the Power BI.
 
-## 4) Data Modelling
+## 4. Data Modelling
 Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report. 
 
 After importing data into the Power BI, the following procedures are to be followed:
@@ -81,7 +81,7 @@ After importing data into the Power BI, the following procedures are to be follo
 2. Establishing relationships among the  tables, employing either **Star Schema** or the **Snow Flake** methodology.
 3. Subsequently, conducting data validation against the benchmarks set by the stakeholders
 
-## 5) Dashboard Designing
+## 5. Dashboard Designing
 Based on mockups received as requirements, the team will start designing visuals and creating measures as needed.
 
 ### Home View
@@ -98,11 +98,7 @@ In the Home view, all the view buttons will be available. Users will land on spe
 | Exective  | It presents some of the important KPI's and tracks market shares trends |
 | Support  | It porvides support measures for the customers who are facing issues |
 
-**Link to Business Insights 360 Presentaion** : [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7117530718058008576/)
-
-**Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-## 6) Project Outcomes
+## 6. Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
 
 ## Important Techniques Learned
@@ -138,3 +134,7 @@ By using this report, decisions can be made based on data, and it will help answ
 - MS Excel
 - DAX language
 - DAX studio (for optimizing the report)
+
+## **Link to Business Insights 360 Presentaion** : [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7117530718058008576/)
+
+## **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
