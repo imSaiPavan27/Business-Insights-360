@@ -2,7 +2,7 @@
 # Business Insights 360
 
 ## Project Overview
-AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics. As a result, the project entailed developing a Power BI dashboard for Atliq Hardware, which would provide automated data analysis for the finance, sales, marketing, and supply chain departments to improve decision-making.
+AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics.The Business Insights 360 dashboard should be built using Microsoft Power BI. This multi-functional dashboard should be tailored in such a way that it should provide AtliQ Hardware with vital insights into their many departments such as Finance, Sales, Marketing, and Supply Chain on a worldwide scale. This can be accomplished by gathering data from two distinct sources: Excel/CSV files and a MySQL database.
 
 ## About AtliQ Hardware
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
@@ -70,10 +70,20 @@ It contains the main fact and dimension tables
   - **Pre_invoice_deductions**: Details of pre-invoice deductions percentage for each customer with year
   - **Post_invoice_deductions**: Details of post-invoice deductions and other deductions
 
+**Note**: The Database which has both fact and dimension tables, consists of more than 1.4 million records of different products, customers, purchases, etc..
 
+## Import data to Power Bi
+After exploring the data, we now connect and load the AtliQ's data from MySQL database to the Power BI.
 
 ## Data Model
-Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report. In this project, a Snowfall data modeling method is followed.
+Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report. 
+
+Afer importing data into the Power BI, the following procedures are to be followed:
+1. Cleaning, formatting and transforming the data using power query
+2. Establishing relationships among the  tables, employing either **Star Schema** or the **Snow Flake** methodology.
+3. Subsequently, conducting data validation against the benchmarks set by the stakeholders
+
+
 
 ## Dashboard Designing
 Based on mockups received as requirements, the team will start designing visuals and creating measures as needed.
