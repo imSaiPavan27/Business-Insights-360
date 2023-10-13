@@ -75,7 +75,7 @@ After exploring the data, we now connect and load the AtliQ's data from MySQL da
 ## 4) Data Modelling
 Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report. 
 
-Afer importing data into the Power BI, the following procedures are to be followed:
+After importing data into the Power BI, the following procedures are to be followed:
 1. Cleaning, formatting and transforming the data using power query
 2. Establishing relationships among the  tables, employing either **Star Schema** or the **Snow Flake** methodology.
 3. Subsequently, conducting data validation against the benchmarks set by the stakeholders
@@ -131,9 +131,9 @@ By using this report, decisions can be made based on data, and it will help answ
 - YTD ( Year to do )
 - YTG ( Year to go )
 
-## Tech Stacks
-- SQL
+## Tech Skills
+- MySQL
 - PowerBi Desktop
-- Excel
+- MS Excel
 - DAX language
 - DAX studio (for optimizing the report)
