@@ -72,18 +72,16 @@ It contains the main fact and dimension tables
 
 **Note**: The Database which has both fact and dimension tables, consists of more than 1.4 million records of different products, customers, purchases, etc..
 
-## Import data to Power Bi
+## Import data to Power BI
 After exploring the data, we now connect and load the AtliQ's data from MySQL database to the Power BI.
 
-## Data Model
+## Data Modelling
 Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report. 
 
 Afer importing data into the Power BI, the following procedures are to be followed:
 1. Cleaning, formatting and transforming the data using power query
 2. Establishing relationships among the  tables, employing either **Star Schema** or the **Snow Flake** methodology.
 3. Subsequently, conducting data validation against the benchmarks set by the stakeholders
-
-
 
 ## Dashboard Designing
 Based on mockups received as requirements, the team will start designing visuals and creating measures as needed.
@@ -102,7 +100,7 @@ In the Home view, all the view buttons will be available. Users will land on spe
 | Exective  | It presents some of the important KPI's and tracks market shares trends |
 | Support  | It porvides support measures for the customers who are facing issues |
 
-
+**Link to Business Insights 360 Presentaion** : [Linkedin Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7117530718058008576/)
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
