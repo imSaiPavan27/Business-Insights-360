@@ -99,7 +99,7 @@ The different views are:
 ## 6. Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
 
-The learnings from this porject:
+**The learnings from this porject:**
 
 ### A. Important Techniques 
 - Getting started with Exploratory Data Analysis using SQL
