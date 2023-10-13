@@ -81,24 +81,16 @@ Based on mockups received as requirements, the team will start designing visuals
 ### Home View
 In the Home view, all the view buttons will be available. Users will land on specific view pages by clicking the button and you can navigate to the certain view.
 
-- Info
-- Finance View
-- Sales View
-- Marketing View
-- Supply Chain View
-- Executive View
-- Products
-- Support
 
 | Views | Description |
 | ------ | ----------- |
 | Info  | path to data files to supply the data that will be passed into templates. |
-| Finance | engine to be used for processing templates. Handlebars is the default. |
-| Sales  | extension to be used for dest files. |
-| Marketing | extension to be used for dest files. |
-| Supply Chain  | extension to be used for dest files. |
-| Exective  | extension to be used for dest files. |
-| Support  | extension to be used for dest files. |
+| Finance | Users can analyze P&L statements ,understanding the net sales and expolring other fiscal metrics |
+| Sales  | It shows a detailed analysis of sales efforts, supporting in improvement of strategy and informed decison making |
+| Marketing | It shows the customer engagement, impact of the product and market research which empowers stakeholders to redefine their marketing strategy |
+| Supply Chain  | it provides insights into inventory levels, order fulfillments and logistics which facilitates streamlined operations |
+| Exective  | It presents some of the important KPI's and tracks market shares trends |
+| Support  | It porvides support measures for the customers who are facing issues |
 
 
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
