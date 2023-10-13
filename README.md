@@ -91,10 +91,10 @@ In the Home view, all the view buttons will be available. Users will land on spe
 | Views | Description |
 | ------ | ----------- |
 | Info  | It gives an overview of the fundamental data generation process and used to notify updates |
-| Finance | Users can analyze P&L statements ,understanding the net sales and expolring other fiscal metrics |
+| Finance | It enables users to analyze P&L statements ,understanding the net sales and expolring other fiscal metrics |
 | Sales  | It shows a detailed analysis of sales efforts, supporting in improvement of strategy and informed decison making |
 | Marketing | It shows the customer engagement, impact of the product and market research which empowers stakeholders to redefine their marketing strategy |
-| Supply Chain  | it provides insights into inventory levels, order fulfillments and logistics which facilitates streamlined operations |
+| Supply Chain  | It provides insights into inventory levels, order fulfillments and logistics which facilitates streamlined operations |
 | Exective  | It presents some of the important KPI's and tracks market shares trends |
 | Support  | It porvides support measures for the customers who are facing issues |
 
