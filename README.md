@@ -81,7 +81,7 @@ After importing data into the Power BI, the following procedures are to be follo
 2. Establishing relationships among the  tables, employing either **Star Schema** or the **Snow Flake** methodology.
 3. Subsequently, conducting data validation against the benchmarks set by the stakeholders
 
-### 5) Dashboard Designing
+## 5) Dashboard Designing
 Based on mockups received as requirements, the team will start designing visuals and creating measures as needed.
 
 ### Home View
@@ -102,7 +102,7 @@ In the Home view, all the view buttons will be available. Users will land on spe
 
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## Project Outcomes
+## 6) Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
 
 ## Important Techniques Learned
