@@ -96,7 +96,7 @@ By using this report, decisions can be made based on data, and it will help answ
 
 The learnings from this porject:
 
-## A. Important Techniques 
+### A. Important Techniques 
 - Getting started with Exploratory Data Analysis using SQL
 - Making connections between SQL and Power BI
 - Shaping data with Power Query
@@ -111,7 +111,7 @@ The learnings from this porject:
 - Utilizing Generated Columns effectively
 - Improving performance through DAX Studio optimization
 
-## B. Business-Related Terms
+### B. Business-Related Terms
 - Net sales
 - Net Profit
 - Net-invoice sales
@@ -123,7 +123,7 @@ The learnings from this porject:
 - YTD ( Year to do )
 - YTG ( Year to go )
 
-## C. Tech Skills
+### C. Tech Skills
 - MySQL
 - PowerBi Desktop
 - MS Excel
