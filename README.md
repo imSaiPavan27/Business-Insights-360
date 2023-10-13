@@ -24,10 +24,10 @@ Using a project tool lie **MURAL**, which helps in creating a porject charter. I
 5. Risks
 
 ## 3. Import & Explore Data
-### a) Importing Data into SQL
+### a. Importing Data into SQL
 Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
 
-### b) Using SQL to Explore Data
+### b. Using SQL to Explore Data
 Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data. There were 2 data sets 
 1. gdb041
 2. gdb056
@@ -39,12 +39,10 @@ It contains the main fact and dimension tables
   - 75 distinct customers throughout the market
   - 2 types of platforms: Brick & Mortar (Physical/offline store) and E-commerce (Online Store)
   - Three channels: Retailer, Direct, Distributors
-
 - **dim_market**
   - 27 distinct markets (e.g., India, USA, Spain)
   - 7 sub-zones
   - 4 regions: APAC, EU, nan, LATAM
-
 - **dim_product**
   - Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage
   - 14 different categories (e.g., Internal HDD, keyboard)
@@ -56,7 +54,6 @@ It contains the main fact and dimension tables
   - Renormalized by the data engineering team for analytical work.
   - Dates of the month replaced by the start date of the month.
   - Contains forecast quantities needed by the customer.
-
 - **fact_sales_monthly**
   - Similar to the fact_forecast_monthly table, but with actual sold quantities.
 
@@ -70,7 +67,7 @@ It contains miscellaneous data which also plays a key role.
 
 **Note**: The Database which has both fact and dimension tables, consists of more than 1.4 million records of different products, customers, purchases, etc..
 
-### c) Import data to Power BI
+### c. Import data to Power BI
 After exploring the data, we now connect and load the AtliQ's data from MySQL database to the Power BI.
 
 ## 4. Data Modelling
