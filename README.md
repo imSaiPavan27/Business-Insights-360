@@ -135,6 +135,5 @@ By using this report, decisions can be made based on data, and it will help answ
 - DAX language
 - DAX studio (for optimizing the report)
 
-## **Link to Business Insights 360 Presentaion** : [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7117530718058008576/)
-
-## **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### **Link to Business Insights 360 Presentaion** : [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7117530718058008576/)
+### **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
