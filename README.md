@@ -4,7 +4,7 @@
 ## Project Overview
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics. As a result, the project entailed developing a Power BI dashboard for Atliq Hardware, which would provide automated data analysis for the finance, sales, marketing, and supply chain departments to improve decision-making.
 
-## Company's Background
+## About AtliQ Hardware
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
 - Retailers
 - Direct
