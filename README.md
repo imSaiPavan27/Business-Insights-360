@@ -60,10 +60,12 @@ Understanding the available data is crucial for effective analysis. Before divin
   - **Pre_invoice_deductions**: Details of pre-invoice deductions percentage for each customer with year
   - **Post_invoice_deductions**: Details of post-invoice deductions and other deductions
 
-**Note**: The Database which has both fact and dimension tables, consists of more than 1.4 million records of different products, customers, purchases, etc..
+**Note**: The Database which has both fact and dimension tables, consists of more than **1.4 Million** records of different products, customers, purchases, etc..
 
 ### C. Import data to Power BI
 After exploring the data, we now connect and load the AtliQ's data from MySQL database to the Power BI.
+
+**Note**: **Excel/ CSV Files** are also the other data source, where the **Targets** and **Market Share** data related informations are imported to Power BI.
 
 ## 4. Data Modelling
 Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report. 
