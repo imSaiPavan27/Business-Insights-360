@@ -77,8 +77,9 @@ After importing data into the Power BI, the following procedures are to be follo
 Based on mockups received as requirements, the team will start designing visuals and creating measures as needed.
 
 ### Home View
-In the Home view, all the view buttons will be available. Users will land on specific view pages by clicking the button and you can navigate to the certain view.
+In the Home view, all the view buttons will be accessible. Users will land on specific view pages by clicking the button and you can navigate to the certain view.
 
+The different views are:
 
 | Views | Description |
 | ------ | ----------- |
