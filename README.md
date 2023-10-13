@@ -17,11 +17,11 @@ The project kickoff session is where you get clarity on the project's objectives
 
 ### Project Charter 
 Using a project tool lie **MURAL**, which helps in creating a porject charter. It outlines kep project features such
-1. Project Goals
-2. Project Timeline
-3. Project team members
-4. Project objectives
-5. Project risks
+1. Goals
+2. Timeline
+3. Team members
+4. Objectives
+5. Risks
 
 ## Importing Data into SQL
 Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
