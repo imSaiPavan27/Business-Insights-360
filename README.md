@@ -98,7 +98,9 @@ In the Home view, all the view buttons will be available. Users will land on spe
 ## 6. Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
 
-## Important Techniques Learned
+The learnings from this porject:
+
+## a. Important Techniques 
 - Getting started with Exploratory Data Analysis using SQL
 - Making connections between SQL and Power BI
 - Shaping data with Power Query
@@ -113,7 +115,7 @@ By using this report, decisions can be made based on data, and it will help answ
 - Utilizing Generated Columns effectively
 - Improving performance through DAX Studio optimization
 
-## Business-Related Terms
+## b. Business-Related Terms
 - Net sales
 - Net Profit
 - Net-invoice sales
@@ -125,29 +127,12 @@ By using this report, decisions can be made based on data, and it will help answ
 - YTD ( Year to do )
 - YTG ( Year to go )
 
-## Tech Skills
+## c. Tech Skills
 - MySQL
 - PowerBi Desktop
 - MS Excel
 - DAX language
 - DAX studio (for optimizing the report)
-
-## Key Learnings
-
-### 1. Customized Dashboard Creation
-We designed and developed a multi-functional Power BI dashboard that was customized to meet the unique needs of AtliQ Hardware. This tailored dashboard provides the company with the ability to gain insights into different departments, empowering data-driven decision-making.
-
-### 2. Data Integration
-Data was sourced from disparate locations, including Excel/CSV files and a MySQL database. We seamlessly integrated this data into Power BI, ensuring comprehensive and unified data analysis.
-
-### 3. Robust Data Model and Visualizations
-We built a robust data model within Power BI, enabling the creation of visually appealing and interactive visualizations. These visualizations effectively represent key performance indicators (KPIs) and facilitate a better understanding of the data.
-
-### 4. Performance Optimization
-To enhance the dashboard's performance, we utilized DAX Studio for optimization. As a result of our efforts, the dashboard's efficiency was improved by approximately 5%, making it more responsive and user-friendly.
-
-### 5. Data-Driven Decisions
-With the new Power BI dashboard in place, AtliQ Hardware now has the ability to analyze trends across various departments. This empowers the organization to make informed, data-driven decisions and enhance its overall performance.
 
 ### **Link to Business Insights 360 Presentaion** : [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7117530718058008576/)
 ### **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
