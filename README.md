@@ -1,7 +1,7 @@
 
 # Business Insights 360
 
-## Project Overview
+## 1. Project Overview
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics.The Business Insights 360 dashboard should be built using Microsoft Power BI. This multi-functional dashboard should be tailored in such a way that it should provide AtliQ Hardware with vital insights into their many departments such as Finance, Sales, Marketing, and Supply Chain on a worldwide scale. This can be accomplished by gathering data from two distinct sources: Excel/CSV files and a MySQL database.
 
 ## About AtliQ Hardware
@@ -12,10 +12,10 @@ AtliQ Hardware is a rapidly growing company that operates globally. They sell co
 
 Recently, the company faced an unforeseen loss due to the opening of a store in Latin America. To make data-driven decisions and survive in the industry, AtliQ Hardware decided to build an analytics team.
 
-## Project Kickoff Session
-The project kickoff session is where you get clarity on the project's objectives and why it's being undertaken. It's the time to ask questions and set the direction for the project and create a **Project Charter**
+## 2. Project Planning
+The project planning session is where you get clarity on the project's objectives and why it's being undertaken. It's the time to ask questions and set the direction for the project and create a **Project Charter**
 
-### Project Charter 
+### a) Project Charter 
 Using a project tool lie **MURAL**, which helps in creating a porject charter. It outlines kep project features such
 1. Goals
 2. Timeline
@@ -23,18 +23,17 @@ Using a project tool lie **MURAL**, which helps in creating a porject charter. I
 4. Objectives
 5. Risks
 
-## Importing Data into SQL
+## 3. Import & Explore Data
+### a) Importing Data into SQL
 Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
 
-## Using SQL to Explore Data
+### b) Using SQL to Explore Data
 Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data. There were 2 data sets 
 1. gdb041
 2. gdb056
 
-### gdb041 data set
+####  gdb041 data set
 It contains the main fact and dimension tables 
-
-
 #### Dimension Tables
 - **dim_customer**
   - 75 distinct customers throughout the market
@@ -50,8 +49,6 @@ It contains the main fact and dimension tables
   - Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage
   - 14 different categories (e.g., Internal HDD, keyboard)
   - Different variants available for the same product
-
-
 
 #### Fact Tables
 - **fact_forecast_monthly**
@@ -72,10 +69,10 @@ It contains the main fact and dimension tables
 
 **Note**: The Database which has both fact and dimension tables, consists of more than 1.4 million records of different products, customers, purchases, etc..
 
-## Import data to Power BI
+### c) Import data to Power BI
 After exploring the data, we now connect and load the AtliQ's data from MySQL database to the Power BI.
 
-## Data Modelling
+## 4) Data Modelling
 Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report. 
 
 Afer importing data into the Power BI, the following procedures are to be followed:
@@ -83,7 +80,7 @@ Afer importing data into the Power BI, the following procedures are to be follow
 2. Establishing relationships among the  tables, employing either **Star Schema** or the **Snow Flake** methodology.
 3. Subsequently, conducting data validation against the benchmarks set by the stakeholders
 
-## Dashboard Designing
+### 5) Dashboard Designing
 Based on mockups received as requirements, the team will start designing visuals and creating measures as needed.
 
 ### Home View
@@ -102,12 +99,9 @@ In the Home view, all the view buttons will be available. Users will land on spe
 
 **Link to Business Insights 360 Presentaion** : [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7117530718058008576/)
 
-
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-
-
-## Project Outcome
+## Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
 
 ## Important Techniques Learned
