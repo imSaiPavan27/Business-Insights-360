@@ -28,12 +28,8 @@ Using a project tool lie **MURAL**, which helps in creating a porject charter. I
 Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
 
 ### B. Using SQL to Explore Data
-Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data. There were 2 data sets 
-1. gdb041
-2. gdb056
+Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data. 
 
-####  gdb041 data set
-It contains the main fact and dimension tables 
 #### Dimension Tables
 - **dim_customer**
   - 75 distinct customers throughout the market
@@ -57,8 +53,7 @@ It contains the main fact and dimension tables
 - **fact_sales_monthly**
   - Similar to the fact_forecast_monthly table, but with actual sold quantities.
 
-#### gdb056 data set
-It contains miscellaneous data which also plays a key role.
+#### Miscellaneous Data 
   - **freight_cost**: Details of travel cost and other costs for each market with fiscal year
   - **gross_price**: Details of gross prices with product code
   - **manufacturing_cost**: Details of manufacturing cost with product code and year
