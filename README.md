@@ -2,7 +2,7 @@
 # Business Insights 360
 
 ## 1. Project Overview
-AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics.The Business Insights 360 dashboard should be built using Microsoft Power BI. This multi-functional dashboard should be tailored in such a way that it should provide AtliQ Hardware with vital insights into their many departments such as Finance, Sales, Marketing, and Supply Chain on a worldwide scale. This can be accomplished by gathering data from two distinct sources: Excel/CSV files and a MySQL database.
+AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics.The Business Insights 360 dashboard should be built using Microsoft Power BI. This multi-functional dashboard should be tailored in such a way that it should provide AtliQ Hardware with vital insights into their many departments such as Finance, Sales, Marketing, and Supply Chain on a worldwide scale. 
 
 ## About AtliQ Hardware
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
