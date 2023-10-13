@@ -1,6 +1,6 @@
----
+
 # Business Insights 360
----
+
 ## Project Overview
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics. As a result, the project entailed developing a Power BI dashboard for Atliq Hardware, which would provide automated data analysis for the finance, sales, marketing, and supply chain departments to improve decision-making.
 
@@ -79,7 +79,7 @@ Data modeling is the foundation of the report. All visuals are built upon the da
 Based on mockups received as requirements, the team will start designing visuals and creating measures as needed.
 
 ### Home View
-In the Home view, all the view buttons will be available. Users will land on specific view pages by clicking the button.
+In the Home view, all the view buttons will be available. Users will land on specific view pages by clicking the button and you can navigate to the certain view.
 
 - Info
 - Finance View
@@ -89,7 +89,17 @@ In the Home view, all the view buttons will be available. Users will land on spe
 - Executive View
 - Products
 - Support
-- Overall Report
+
+| Views | Description |
+| ------ | ----------- |
+| Info  | path to data files to supply the data that will be passed into templates. |
+| Finance | engine to be used for processing templates. Handlebars is the default. |
+| Sales  | extension to be used for dest files. |
+| Marketing | extension to be used for dest files. |
+| Supply Chain  | extension to be used for dest files. |
+| Exective  | extension to be used for dest files. |
+| Support  | extension to be used for dest files. |
+
 
 **Link to Live Interactive DashBoard**: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiYmEwOTNiNDYtMDcyZi00NWIxLThkNzYtNmQ3YWYyZDgzMTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
