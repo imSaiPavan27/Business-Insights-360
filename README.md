@@ -31,7 +31,7 @@ Using a project tool lie **MURAL**, which helps in creating a porject charter. I
 Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
 
 ### B. Using SQL to Explore Data
-Understanding the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data. 
+Exploring the available data is crucial for effective analysis. Before diving into the analysis, gain a good understanding of the available data. 
 
 #### Dimension Tables
 - **dim_customer**
