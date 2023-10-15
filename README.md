@@ -96,6 +96,7 @@ The different views are:
 | Exective  | It presents some of the important KPI's and tracks market shares trends |
 | Support  | It porvides support measures for the customers who are facing issues |
 
+The main objectives for the views are: 
 
 | Views | Objectives |
 | ------ | ---------- | 
@@ -107,6 +108,16 @@ The different views are:
 
 ## 6. Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
+
+The Key achivements are :
+
+| Views | Key Achievments |
+| ------ | ---------- | 
+| Finance | Improve financial planning and budgeting processes. Enhance cost control and expense management. | 
+| Sales  | Increase sales revenue and market share.Enhance customer relationship management. |
+| Marketing | Increase brand visibility and customer engagement.Implement data-driven marketing strategies. |
+| Supply Chain  | Optimize inventory management and reduce lead times.Enhance supplier relationships for cost savings. |
+| Exective  | Provide an overview of the entire organization's performance.Enable data-driven decision-making for top management. |
 
 **The learnings from this porject:**
 
