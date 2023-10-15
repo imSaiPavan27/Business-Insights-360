@@ -99,8 +99,7 @@ The different views are:
 
 | Views | Objectives |
 | ------ | ---------- | 
-| Finance | Improve financial planning and budgeting processes.
-Enhance cost control and expense management. | 
+| Finance | Improve financial planning and budgeting processes. Enhance cost control and expense management. | 
 
 ## 6. Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
