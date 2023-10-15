@@ -98,7 +98,7 @@ The different views are:
 
 
 ## 6. Project Outcomes
-By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
+This dashboard helps with various business questions in different situations. It enables data-driven decisions to make AtliQ more profitable. It uses data to answer many 'why' questions in different scenarios.
 
 The Goals and successes :
 
@@ -145,4 +145,3 @@ The Goals and successes :
 - MS Excel
 - DAX language
 - DAX studio (for optimizing the report)
-
