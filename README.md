@@ -97,11 +97,10 @@ The different views are:
 | Support  | It porvides support measures for the customers who are facing issues |
 
 
-| Views | Objectives | Key Achivements |
-| ------ | ---------- | ----------------|
-| Finance | | Improve financial planning and budgeting processes.
-Enhance cost control and expense management. | Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
-Created benchmarking against last year and target goals for budgeting. |
+| Views | Objectives |
+| ------ | ---------- | 
+| Finance | Improve financial planning and budgeting processes.
+Enhance cost control and expense management. | 
 
 ## 6. Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
