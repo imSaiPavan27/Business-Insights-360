@@ -97,8 +97,8 @@ The different views are:
 | Support  | It porvides support measures for the customers who are facing issues |
 
 
-| Views | Description | Objectives | Key Achivements |
-| ------ | ----------- | ---------- | ----------------|
+| Views | Objectives | Key Achivements |
+| ------ | ---------- | ----------------|
 | Finance | | Improve financial planning and budgeting processes.
 Enhance cost control and expense management. | Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 Created benchmarking against last year and target goals for budgeting. |
