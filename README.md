@@ -100,6 +100,10 @@ The different views are:
 | Views | Objectives |
 | ------ | ---------- | 
 | Finance | Improve financial planning and budgeting processes. Enhance cost control and expense management. | 
+| Sales  | Increase sales revenue and market share.Enhance customer relationship management. |
+| Marketing | Increase brand visibility and customer engagement.Implement data-driven marketing strategies. |
+| Supply Chain  | Optimize inventory management and reduce lead times.Enhance supplier relationships for cost savings. |
+| Exective  | Provide an overview of the entire organization's performance.Enable data-driven decision-making for top management. |
 
 ## 6. Project Outcomes
 By using this report, decisions can be made based on data, and it will help answer numerous "why" questions based on various situations.
